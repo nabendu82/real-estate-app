@@ -3,6 +3,7 @@ import Hero from "./components/Hero"
 import "./App.css";
 import Companies from "./components/Companies";
 import Residencies from "./components/Residencies";
+import Value from "./components/Value";
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
       </div>
       <Companies />
       <Residencies />
+      <Value />
     </div>
   )
 }

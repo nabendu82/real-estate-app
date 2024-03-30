@@ -1,38 +1,38 @@
 [
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "name": "Galaxy City",
+    "price": "47,043,00",
+    "detail": "Garden City Street, Katara Hills. Pulo Gadung, Katara, Bhopal",
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "name": "Royal Garden City",
+    "price": "66,353,00",
+    "detail": "Royal Street XVII No.215, Kolar, Sawangan, Kolar road, Bhopal",
     "image": "./r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "name": "Krishna Heights",
+    "price": "35,853,00",
+    "detail": "Krishna nagar Residence Block A7, Lingkar Street, Awadhpuri, BHEL, Bhopal",
     "image": "./r3.png"
   },
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "name": "Aliva Complex",
+    "price": "47,043,00",
+    "detail": "Aliva Garden City Street, No 2 Street. , Jakarta Timur, Indore",
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "name": "Akriti Garden City",
+    "price": "66,353,00",
+    "detail": "Akriti Street No.215, Cinema, IT Park, Depok, Indore",
     "image": "./r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "name": "NewYork Classic",
+    "price": "35,853,00",
+    "detail": "NewYork Road Residence Block A7, Ayushman, Near AIIMS, BHEL, Bhopal",
     "image": "./r3.png"
   }
 ]

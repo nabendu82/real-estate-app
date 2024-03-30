@@ -13,11 +13,11 @@ const Residencies = () => {
                     <span className="primaryText">Popular Residencies</span>
                 </div>
                 <Swiper {...sliderSettings}>
-                    <SlideNextButton />
                     {data.map((card, i) => (
                         <SwiperSlide key={i}>
                             <div className="flexColStart r-card">
                                 <img src={card.image} alt="home" />
+
                                 <span className="secondaryText r-price">
                                     <span style={{ color: "orange" }}>₹</span>
                                     <span>{card.price}</span>
@@ -30,21 +30,8 @@ const Residencies = () => {
                 </Swiper>
             </div>
         </div>
-    )
-}
-
-export default Residencies
-
-const SlideNextButton = () => {
-    const swiper = useSwiper();
-    return (
-        <div className="flexCenter r-buttons">
-            <button onClick={() => swiper.slidePrev()} className="r-prevButton">
-                &lt;
-            </button>
-            <button onClick={() => swiper.slideNext()} className="r-nextButton">
-                &gt;
-            </button>
-        </div>
     );
 };
+
+export default Residencies;
+
