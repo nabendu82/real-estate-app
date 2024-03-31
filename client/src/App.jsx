@@ -6,7 +6,6 @@ import { Suspense } from "react";
 import Properties from "./pages/Properties";
 import { QueryClient, QueryClientProvider } from "react-query";
 import { ToastContainer } from "react-toastify";
-import { ReactQueryDevtools } from "react-query/devtools";
 import "react-toastify/dist/ReactToastify.css";
 import Property from "./pages/Property";
 
@@ -29,7 +28,6 @@ const App = () => {
         </Suspense>
       </BrowserRouter>
       <ToastContainer />
-      <ReactQueryDevtools initialIsOpen={false} />
     </QueryClientProvider>
   )
 }
